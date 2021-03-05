@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethereum-input-data-decoder": "^0.3.1",
+    "ethers": "^4.0.48",
+    "jetty": "^0.2.1",
+    "web3": "^1.3.3"
+  }
+}
