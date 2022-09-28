@@ -15,3 +15,8 @@ send_tx_swapExactETHForTokens.js:
 
 send_test_tx.js:
 - This script is for testing the bot by sending out a transaction for it to "find". It is suggested that you run your geth node on the rinkeby testnet chain so that you don't lose any real eth funds. Make sure you're watch_tx_bot.js is running and listening for transactions with the proper paramaters, then run this script and watch as the bot catches it as soon as it's posted to the testnet TXPOOL. 
+
+
+# See it in action 
+(the final tx fails due to no balance in my wallet at the time)
+<a href="https://asciinema.org/a/oe9pzjqcgRPAfXfO9y3nMUzo3" target="_blank"><img src="https://asciinema.org/a/oe9pzjqcgRPAfXfO9y3nMUzo3.svg" /></a>
